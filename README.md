@@ -1,2 +1,2 @@
-# my-art
-hub for my art
+# pdf-art
+hub for all of my art
